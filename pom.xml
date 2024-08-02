@@ -6,8 +6,7 @@
     <artifactId>jb-hello-world-maven</artifactId>
     <packaging>jar</packaging>
     <version>0.2.0</version>
-update the file
-    update again
+hello csm
     <!-- tag::joda[] -->
      <properties>
            <java.version>1.8</java.version>
