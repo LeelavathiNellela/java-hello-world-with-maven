@@ -5,7 +5,7 @@ pipeline{
          maven 'maven'
          jdk 'java'
         update file
-    } update
+    } update file
 
     stages{
         stage('checkout'){
