@@ -20,7 +20,7 @@
                <version>2.2</version>
            </dependency>
        </dependencies>
-       <!--hello end::joda[] hi-->
+       <!-- end::joda[] -->
        
     <build>
         <plugins>
